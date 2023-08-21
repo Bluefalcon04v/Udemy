@@ -9,5 +9,5 @@ let continent = "Asia";
 let population = 1430341556;
 
 console.log(country);
-console.log(continent);
+console.log(continent); 
 console.log(population);
