@@ -9,4 +9,18 @@
 // which contains a string with this format: 'Portugal is in Europe, and its 11 million
 // people speak portuguese'
 
+let country = "India";
+const continent = "Asia";
+const language = "Hindi";
+let population = 1430341556;
+console.log(`Peoples live in each half ${population/2}`);
 
+console.log(++population);
+
+let finlandPopulation = 6000000;
+console.log(population >= finlandPopulation);
+
+let averagePopulation = 33000000;
+console.log(population <= finlandPopulation);
+
+console.log(`${country} is in ${continent}, and its ${population} people speak ${language}`);
