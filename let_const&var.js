@@ -21,8 +21,4 @@ console.log(language);
 population = 2430341556;
 language = "English";   // it will give an error message because const doesn't support changing
 
-console.log(isIsland);
-console.log(country);
-console.log(continent); 
-console.log(population);
-console.log(language);
+console.log(isIsland, country, continent,typeof population, language);
